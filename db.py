@@ -5,8 +5,8 @@ import mysql.connector
 
 mydb = mysql.connector.connect(
   host="localhost",
-  user="admin_invent",
-  password="P@ssw0rd1412",
+  user="",
+  password="",
   database="inventory_db"
 )
 
